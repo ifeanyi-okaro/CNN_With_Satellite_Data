@@ -1,1 +1,3 @@
 # CNN_With_Satellite_Data
+
+The CYGNSS Satellite launched in 2016, measures the strength of GPS signals reflected by the ocean floor. This gives additional information on the surface. Notably, The roughness of the ocean surface is presumed to be related to the windspeed. This is used to forecast extreme weather conditions like tropical cyclones. The aim of this project is to establish this relationship by using Artificial Neural Networks. A subset of the Delay Doppler Measurment Map (DDM) given by the bin bistatic radar cross section (brcs), from CYGNSS data and the Windspeed Data from ERA5 will be used for this excercise.
